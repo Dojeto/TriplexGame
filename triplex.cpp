@@ -4,7 +4,6 @@
 
 void PrintIntroduction(int Difficulty,int Lives)
 {
-   // system("CLS");
    std :: cout << "\n\nShhh....You Are Secret Agent In A Room Level " << Difficulty << std ::  endl;
    std :: cout << "Enter A Correct Code To Continue...." << std :: endl;
    std :: cout << "\nLives : " << Lives << std :: endl;
